@@ -1,0 +1,28 @@
+
+button {
+    font-size: 70px;
+    border-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    font-family: "Kanit", sans-serif;
+    background-color: blue;
+    
+}
+[popover]::backdrop {
+    backdrop-filter: blur(6px);
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.box {
+    border-radius: 10px;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 10px;
+    background: rgb(8, 93, 136);
+    font-family: Segoe UI Black;
+    color: aliceblue;
+}
